@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: beige;    
+}
+
+h1 {
+    color: brown;
+    font-style: italic;
+}
+
+.verse {
+    font-size: larger;
+    /* border: 2px dotted red; */
+}
+
+#author-container {
+    width: 120px;
+    margin: auto;
+}
+
+#author-img {
+    width: 120px;
+    text-align: right;
+}
+
+#author-name {
+    font-size: larger;
+    font-weight: bold;
+}
